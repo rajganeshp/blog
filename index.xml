@@ -1,15 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blogs on Raj web site</title>
-    <link>http://example.org/blog/</link>
-    <description>Recent content in Blogs on Raj web site</description>
+    <title>Raj web site</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Raj web site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 07 Jul 2014 14:51:57 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2020 14:51:02 -0500</lastBuildDate>
     
-	<atom:link href="http://example.org/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>z	Aboutme</title>
+      <link>http://example.org/aboutme/</link>
+      <pubDate>Tue, 07 Jul 2020 15:07:06 -0500</pubDate>
+      
+      <guid>http://example.org/aboutme/</guid>
+      <description>PROFILE
+I’m a capable Technical Director who can act as the glue that links together mission critical security requirements. Articulate and effective communicator who has a history of developing products that push the limits of technology. Able to respond to the ever changing demands of clients by creating innovative high quality and defect-free security solutions that precisely meet their business needs. Strong management and methodical aptitude with an innate ability in decision-making, coordinating and synthesizing data.</description>
+    </item>
+    
+    <item>
+      <title>Ghm</title>
+      <link>http://example.org/ghm/</link>
+      <pubDate>Tue, 07 Jul 2020 15:15:21 -0500</pubDate>
+      
+      <guid>http://example.org/ghm/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Hello</title>
@@ -18,6 +37,36 @@
       
       <guid>http://example.org/blog/hello/</guid>
       <description>this is hello</description>
+    </item>
+    
+    <item>
+      <title>First</title>
+      <link>http://example.org/first/</link>
+      <pubDate>Tue, 07 Jul 2020 14:48:22 -0500</pubDate>
+      
+      <guid>http://example.org/first/</guid>
+      <description>this is first page!!!!</description>
+    </item>
+    
+    <item>
+      <title>Second</title>
+      <link>http://example.org/posts/second/</link>
+      <pubDate>Tue, 07 Jul 2020 14:51:02 -0500</pubDate>
+      
+      <guid>http://example.org/posts/second/</guid>
+      <description>this is second page
+Watch my youtube video
+  </description>
+    </item>
+    
+    <item>
+      <title>Test</title>
+      <link>http://example.org/posts/test/</link>
+      <pubDate>Tue, 07 Jul 2020 12:56:52 -0500</pubDate>
+      
+      <guid>http://example.org/posts/test/</guid>
+      <description>this is a test site tuhtehu tuehu
+# this is snhutehuheout thutehuse tuhehu uteuh euse thute hsue</description>
     </item>
     
   </channel>
