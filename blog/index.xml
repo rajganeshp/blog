@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Raj web site</title>
+    <link>http://example.org/blog/</link>
+    <description>Recent content in Blogs on Raj web site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 07 Jul 2014 14:51:57 -0500</lastBuildDate>
+    
+	<atom:link href="http://example.org/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello world</title>
+      <link>http://example.org/blog/hello/</link>
+      <pubDate>Mon, 07 Jul 2014 14:51:57 -0500</pubDate>
+      
+      <guid>http://example.org/blog/hello/</guid>
+      <description>this is hello</description>
+    </item>
+    
+  </channel>
+</rss>
