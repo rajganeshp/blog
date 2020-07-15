@@ -8,6 +8,16 @@
   </url>
   
   <url>
+    <loc>http://example.org/</loc>
+    <lastmod>2019-09-20T04:20:36+04:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/</loc>
+    <lastmod>2019-09-20T04:20:36+04:30</lastmod>
+  </url>
+  
+  <url>
     <loc>http://example.org/ghm/</loc>
     <lastmod>2020-07-07T15:15:21-05:00</lastmod>
   </url>
@@ -23,23 +33,17 @@
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
-    <lastmod>2020-07-07T14:51:02-05:00</lastmod>
-    <priority>0</priority>
+    <loc>http://example.org/contactme/</loc>
+    <lastmod>2020-07-07T15:15:21-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/</loc>
-    <lastmod>2020-07-07T14:51:02-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/posts/second/</loc>
+    <loc>http://example.org/posts/tuheu/</loc>
     <lastmod>2020-07-07T14:51:02-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/test/</loc>
+    <loc>http://example.org/posts/htuhehu/</loc>
     <lastmod>2020-07-07T12:56:52-05:00</lastmod>
   </url>
   

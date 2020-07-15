@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Raj web site</title>
+    <title>Home Page on Raj web site</title>
     <link>http://example.org/</link>
-    <description>Recent content on Raj web site</description>
+    <description>Recent content in Home Page on Raj web site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Jul 2020 14:51:02 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 20 Sep 2019 04:20:36 +0430</lastBuildDate>
     
 	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     
@@ -50,22 +50,33 @@ more updates!!!</description>
     </item>
     
     <item>
-      <title>Second</title>
-      <link>http://example.org/posts/second/</link>
-      <pubDate>Tue, 07 Jul 2020 14:51:02 -0500</pubDate>
+      <title>contact me</title>
+      <link>http://example.org/contactme/</link>
+      <pubDate>Tue, 07 Jul 2020 15:15:21 -0500</pubDate>
       
-      <guid>http://example.org/posts/second/</guid>
-      <description>this is second page
-Watch my youtube video
-  </description>
+      <guid>http://example.org/contactme/</guid>
+      <description>this is updated site!
+more updates!!!
+what is happenig?</description>
     </item>
     
     <item>
-      <title>Test</title>
-      <link>http://example.org/posts/test/</link>
+      <title>anotherthuthehtu</title>
+      <link>http://example.org/posts/tuheu/</link>
+      <pubDate>Tue, 07 Jul 2020 14:51:02 -0500</pubDate>
+      
+      <guid>http://example.org/posts/tuheu/</guid>
+      <description>this is second page
+&amp;lt;a href=&amp;quot;/img/play.pdf&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;customer pdf&amp;lt;/a&amp;gt; Watch my youtube video
+   </description>
+    </item>
+    
+    <item>
+      <title>another1</title>
+      <link>http://example.org/posts/htuhehu/</link>
       <pubDate>Tue, 07 Jul 2020 12:56:52 -0500</pubDate>
       
-      <guid>http://example.org/posts/test/</guid>
+      <guid>http://example.org/posts/htuhehu/</guid>
       <description>this is a test site tuhtehu tuehu
 # this is snhutehuheout thutehuse tuhehu uteuh euse thute hsue</description>
     </item>
